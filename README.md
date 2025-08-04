@@ -31,3 +31,17 @@ exit
 
 [5 Princípios de Projeto](https://engsoftmoderna.info/cap5.html)
 
+## Aula 31/07
+
+- Princípios de projeto de código
+- Padronização de código
+- Ocultamento de Informação
+
+## Aula 04/08
+
+- Coesão
+- Acoplamento
+- SOLID
+
+
+
