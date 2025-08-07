@@ -41,7 +41,74 @@ exit
 
 - Coesão
 - Acoplamento
+
+## Aula 07/08
+
 - SOLID
+  - Princípio da responsabilidade única
+  - Princípio da segregação de interfaces
+  
+[Livro Código Limpo](https://integrada.minhabiblioteca.com.br/reader/books/9788550816043/pageid/0) 
+[Padrões de Projeto](https://integrada.minhabiblioteca.com.br/reader/books/9788577800469/pageid/0) 
+
+```java
+package br.univille;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+
+public class Janelinha extends JFrame {
+
+    private JButton botaozinho;
+    private Controlador controlador;
+    public Janelinha() {
+        setTitle("Janelinha");
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setSize(500,500);
+        controlador = new Controlador();
+
+        botaozinho = new JButton(" Me Clica ");
+        botaozinho.addActionListener(controlador);
+        botaozinho.addMouseMotionListener(controlador);
+        add(botaozinho);
+        setVisible(true);
+    }
+    public static void main(String[] args) {
+        new Janelinha();
+    }
+    
+}
+```
+
+```java
+package br.univille;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseMotionListener;
+
+import javax.swing.JOptionPane;
+
+public class Controlador 
+    implements ActionListener, 
+        MouseMotionListener{
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        JOptionPane.showMessageDialog(null, "EU NAO ACREDITO");
+    }
+    @Override
+    public void mouseDragged(MouseEvent e) {
+        
+    }
+    @Override
+    public void mouseMoved(MouseEvent e) {
+        System.out.println("Moveu" + " x:" + e.getX() + " y:" + e.getY());
+    }
+    
+}
+```
 
 
 
