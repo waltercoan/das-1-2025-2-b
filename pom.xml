@@ -10,6 +10,6 @@
     <name>Multi Project: DAS-1-2025-2-A</name>
 
     <modules>
-
+        <module>solid</module>
     </modules>
 </project>

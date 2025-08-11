@@ -110,5 +110,12 @@ public class Controlador
 }
 ```
 
+## Aula 11/08
+
+- SOLID
+  - Princípio da inversão de dependências
+  - Prefira composição a herança
+  - Princípio de Demeter (menor conhecimento)
+  - Princípio Aberto/Fechado
 
 
