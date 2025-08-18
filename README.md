@@ -135,5 +135,5 @@ public class Controlador
 
 [Livro Engenharia de Software - Padrões de Projeto](https://engsoftmoderna.info/cap6.html)
 
-[Padrões de Projeto Guru](https://engsoftmoderna.info/cap6.html)
+[Padrões de Projeto Guru](https://refactoring.guru/design-patterns)
 
