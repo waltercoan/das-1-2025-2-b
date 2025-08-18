@@ -119,3 +119,21 @@ public class Controlador
   - Princípio Aberto/Fechado
 
 
+## Aula 11/08
+
+- SOLID
+  - Princípio da inversão de dependências
+  - Prefira composição a herança
+  - Princípio de Demeter (menor conhecimento)
+  - Princípio Aberto/Fechado
+
+## Aula 14/08
+- SOLID
+  - Princípio Liskov
+
+[Livro Padrões de Projeto](https://integrada.minhabiblioteca.com.br/reader/books/9788577800469/pageid/0)
+
+[Livro Engenharia de Software - Padrões de Projeto](https://engsoftmoderna.info/cap6.html)
+
+[Padrões de Projeto Guru](https://engsoftmoderna.info/cap6.html)
+
