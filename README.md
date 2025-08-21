@@ -137,3 +137,8 @@ public class Controlador
 
 [Padrões de Projeto Guru](https://refactoring.guru/design-patterns)
 
+## Aula 21/08
+
+- Implementar o Design Pattern: Observer
+
+[Observer](https://refactoring.guru/design-patterns/observer)
