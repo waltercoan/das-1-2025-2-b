@@ -147,7 +147,7 @@ public class Controlador
 
 [Padrões de Projeto Guru - Implementação Observer](https://refactoring.guru/design-patterns/observer)
 
-## Aula 26/08
+## Aula 28/08
 
 [Fundamentos da Arquitetura de Software - Introdução](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/18[%3Bvnd.vst.idref%3Dcap1.xhtml]!/4)
 
