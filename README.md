@@ -163,5 +163,7 @@ public class Controlador
 - Manter-se atualizado
 - Domínio do negócio
 - DevOps
+  
+[Introdução a DevOps](https://learn.microsoft.com/pt-br/training/modules/introduction-to-devops/2-what-is-devops?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-400-work-git-for-enterprise-devops)
 
 
