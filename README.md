@@ -173,3 +173,12 @@ public class Controlador
 - Resuma a diferençca entre: Arquitetura e Design
 - Como é a formação do conhecimento de um arquiteto modelo T?
 
+## Aula 08/09
+
+[Fundamentos da Arquitetura de Software - Análise de Trade-offs](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/22%5B%3Bvnd.vst.idref%3Dcap2.xhtml%5D!/4/2/58%5Bsigil_toc_id_24%5D/1:22%5B-of%2Cfs%5D)
+
+
+
+
+
+
