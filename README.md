@@ -1,7 +1,7 @@
 # Design e Arquitetura de Software 1 - 2025/2 Turma B
 
 ## Repositório dos alunos
-- [Repos](#)
+- [Repos](https://gist.github.com/waltercoan/86d4b1a52894ff2539b9811c6e03ba14)
 
 ## Configuração do GIT
 ```
