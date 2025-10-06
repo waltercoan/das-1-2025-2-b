@@ -181,6 +181,12 @@ public class Controlador
 
 - Implementação do publisher e subscriber (tópico)
 
+# 2 Bimestre
+
+## Aula 06/10
+
+- [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
+
 
 
 
