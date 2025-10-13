@@ -192,6 +192,7 @@ public class Controlador
 - [circuit-breaker](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
 - [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
 
+## Aula 13/10
 
-
-
+- [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
