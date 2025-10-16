@@ -196,3 +196,8 @@ public class Controlador
 
 - [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
+
+## Aula 16/10
+
+- [Retry Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/retry)
+- [Fundamentos dos Padrões de Arquiteturas](https://app.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/38%5B%3Bvnd.vst.idref%3Dcap9.xhtml%5D!/4)
