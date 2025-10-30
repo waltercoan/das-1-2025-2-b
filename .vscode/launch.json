@@ -2,11 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "br.univille.Main",
+            "projectName": "pipeline",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": "",
             "envFile": "${workspaceFolder}/.env"
         }
-
     ]
 }
